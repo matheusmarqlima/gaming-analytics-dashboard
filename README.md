@@ -50,8 +50,8 @@ O projeto foi construído utilizando as seguintes tecnologias e bibliotecas:
 1.  **Clone o repositório:**
 
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
-    cd seu-repositorio
+    git clone https://github.com/matheusmarqlima/gaming-analytics-dashboard
+    cd (nome do projeto)
     ```
 
 2.  **Instale as dependências:**
