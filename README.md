@@ -33,6 +33,10 @@ Os dados utilizados neste projeto são do dataset **"Video Game Sales"**, dispon
 
 O projeto foi construído utilizando as seguintes tecnologias e bibliotecas:
 
+  - Python
+  - Google Colab
+  - 
+
 -----
 
 ## 🚀 Como Executar o Projeto
