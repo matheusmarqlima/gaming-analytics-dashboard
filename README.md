@@ -35,7 +35,6 @@ O projeto foi construído utilizando as seguintes tecnologias e bibliotecas:
 
   - Python
   - Google Colab
-  - 
 
 -----
 
